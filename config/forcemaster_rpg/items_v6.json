@@ -1,0 +1,449 @@
+{
+  "weapons": {
+    "diamond_knuckle": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "aeternium_knuckle": {
+      "attack_damage": 7.0,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 5.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.07,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "guardian_knuckle": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "generic.armor",
+          "value": 4.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.025,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "netherite_knuckle": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 5.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "bloody_knuckle": {
+      "attack_damage": 6.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 6.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.07,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:lifesteal_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:arcane_fuse_modifier",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "legendary_golden_knuckle": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 5.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "stone_knuckle": {
+      "attack_damage": 2.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 2.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.01,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "ruby_knuckle": {
+      "attack_damage": 7.0,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 5.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.07,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "golden_knuckle": {
+      "attack_damage": 1.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 2.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "wooden_knuckle": {
+      "attack_damage": 1.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 2.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "iron_knuckle": {
+      "attack_damage": 3.5,
+      "attack_speed": -2.2,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "phasleb": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.15,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "oriene": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "aken": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.2,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.2,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.2,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "spell_power:arcane",
+            "value": 0.2,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "more_rpg_classes:arcane_fuse_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

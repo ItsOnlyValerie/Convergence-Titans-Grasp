@@ -1,0 +1,14 @@
+
+
+
+
+profile Saved activate HOT3
+	HOT1
+		"iceandfire:dragonbone_pickaxe" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:5},{id:"minecraft:fortune",lvl:10},{id:"minecraft:silk_touch",lvl:1},{id:"minecraft:unbreaking",lvl:10}]
+	HOT2
+		"iceandfire:dragonbone_pickaxe" -> "Enchantments" : [{id:"minecraft:efficiency",lvl:5},{id:"minecraft:silk_touch",lvl:1},{id:"minecraft:unbreaking",lvl:10}]
+	HEAD
+		"mcda:emerald_gear_helmet"
+	FEET
+		"mcda:emerald_gear_boots"
+

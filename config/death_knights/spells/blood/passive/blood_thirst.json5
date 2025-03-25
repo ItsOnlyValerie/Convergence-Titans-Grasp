@@ -1,0 +1,5 @@
+{
+  // Defines how much blood power is needed to heal 1% of the maximum health of the player.
+  // Default: 2.5 Blood Power = 1% max health healing
+  "oncepercent_heal_amount": 2.5
+}

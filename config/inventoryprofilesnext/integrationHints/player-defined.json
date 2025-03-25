@@ -1,0 +1,26 @@
+{
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 29,
+                "top": 64
+            },
+            "SORT": {
+                "horizontalOffset": 29,
+                "top": 64
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 29,
+                "top": 64
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 29,
+                "top": 64
+            },
+            "SETTINGS": {
+                "horizontalOffset": -1,
+                "top": 1
+            }
+        }
+    }
+}

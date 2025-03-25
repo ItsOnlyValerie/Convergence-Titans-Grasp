@@ -1,0 +1,518 @@
+{
+  "items": {
+    "additional_rpg_jewelry:netherite_rage_necklace": {
+      "attributes": [
+        {
+          "id": "generic.attack_damage",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.15,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:earth_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_earth_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_rage_ring": {
+      "attributes": [
+        {
+          "id": "generic.attack_damage",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.15,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_ocean_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_rage_necklace": {
+      "attributes": [
+        {
+          "id": "generic.attack_damage",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:vampire_necklace": {
+      "attributes": [
+        {
+          "id": "generic.attack_damage",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:lifesteal_modifier",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:rage_necklace": {
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_sky_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:silver_sapphire_ring": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:earth_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:steel_jade_ring": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "generic.attack_damage",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_sky_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_earth_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:rage_ring": {
+      "attributes": [
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:dripstone_necklace": {
+      "attributes": [
+        {
+          "id": "generic.max_health",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "more_rpg_classes:damage_reflect_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_earth_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_sky_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:sky_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:sky_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_ocean_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:wolf_school_medallion": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.15,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "generic.attack_speed",
+          "value": 0.06,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "generic.attack_damage",
+          "value": 0.12,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_sky_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_rage_ring": {
+      "attributes": [
+        {
+          "id": "generic.attack_damage",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:rage_modifier",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:bear_school_medallion": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:quen_intensity",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "generic.attack_damage",
+          "value": 0.12,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:griffin_school_medallion": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.12,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:netherite_ocean_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:cactea_ring": {
+      "attributes": [
+        {
+          "id": "generic.max_health",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "more_rpg_classes:damage_reflect_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:ocean_ring": {
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_earth_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_chance",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:cat_school_medallion": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:aard_intensity",
+          "value": 2.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "generic.attack_speed",
+          "value": 0.06,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "generic.attack_damage",
+          "value": 0.12,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "combatroll:recharge",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:unique_ocean_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 0.03,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:meteorite_silver_sapphire_ring": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:dark_steel_jade_ring": {
+      "attributes": [
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.14,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "generic.attack_damage",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "combatroll:recharge",
+          "value": 0.025,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:vampire_ring": {
+      "attributes": [
+        {
+          "id": "generic.attack_damage",
+          "value": 0.08,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "more_rpg_classes:lifesteal_modifier",
+          "value": 0.05,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "additional_rpg_jewelry:ocean_necklace": {
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    }
+  }
+}

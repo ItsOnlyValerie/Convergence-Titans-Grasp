@@ -1,0 +1,821 @@
+{
+  "weapons": {
+    "winters_blade_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 3.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:aard_intensity",
+          "value": 3.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.15,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "meteorite_witcher_sword": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 3.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "diamond_witcher_sword": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 1.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.035,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "netherite_witcher_sword": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 2.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.06,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "meteorite_silver_witcher_sword": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 5.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.04,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "steel_witcher_sword": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.035,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "aerondight_sword": {
+      "attack_damage": 10.5,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "ultimatum_sword": {
+      "attack_damage": 5.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "spell_power:critical_damage",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.075,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "id": "witcher_rpg:igni_intensity",
+          "value": 3.5,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "dark_steel_witcher_sword": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:aard_intensity",
+          "value": 1.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "dark_iron_witcher_sword": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.065,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "iron_witcher_sword": {
+      "attack_damage": 4.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 0.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "golden_witcher_sword": {
+      "attack_damage": 2.0,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 0.5,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "witcher_rpg:adrenaline_modifier",
+          "value": 0.02,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "silver_witcher_sword": {
+      "attack_damage": 4.5,
+      "attack_speed": -2.4,
+      "attributes": [
+        {
+          "id": "witcher_rpg:sign_intensity",
+          "value": 1.5,
+          "operation": "ADDITION"
+        }
+      ]
+    }
+  },
+  "armor_sets": {
+    "superior_feline": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "combatroll:recharge",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "combatroll:recharge",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "combatroll:recharge",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "combatroll:recharge",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "griffin": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.25,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "feline": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "minecraft:generic.attack_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "superior_griffin": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.3,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.3,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.3,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.3,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "spell_power:haste",
+            "value": 0.02,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "witcher": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 1,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "witcher_rpg:sign_intensity",
+            "value": 0.15,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "ursine": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.075,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "superior_ursine": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 8,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 6,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "witcher_rpg:adrenaline_modifier",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "molten_armor_armor_reduction_per_stack": -2.0,
+  "molten_armor_armor_toughness_reduction_per_stack": -1.0,
+  "fear_attack_damage_reduction": -0.25,
+  "fear_increased_damage_taken": 0.2,
+  "grievous_wounds_increased_damage_taken": 0.15,
+  "grievous_wounds_healing_taken": 0.25,
+  "collected_soul_soul_power_per_stack": 0.1,
+  "frozen_solid_increased_damage_taken": 0.5,
+  "frosted_decreased_movement_speed_per_stack": -0.1,
+  "frosted_amplifier_frozen_solid_conversion": 5
+}

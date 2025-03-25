@@ -1,0 +1,7 @@
+{
+  "stone_hand_attack_damage_increase": 0.25,
+  "arcane_overflow_arcane_fuse_multiply": 0.15,
+  "arcane_overflow_arcane_spellpower_multiply": 0.05,
+  "barq_esna_arcane_damage_vulnerability": 0.2,
+  "barq_esna_attack_damage_reduction": 0.15
+}

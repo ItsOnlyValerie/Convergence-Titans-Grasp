@@ -1,0 +1,12 @@
+{
+  "allow_stacking": true,
+  "elemental_mastery": {
+    "requires_related_attributes": true,
+    "enabled": true,
+    "max_level": 5,
+    "min_cost": 10,
+    "step_cost": 9,
+    "bonus_per_level": 0.03
+  },
+  "schema_version": 4
+}

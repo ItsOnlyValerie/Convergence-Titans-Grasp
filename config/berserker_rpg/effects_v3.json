@@ -1,0 +1,13 @@
+{
+  "rage_increased_incoming_damage_per_stack": 0.05,
+  "rage_rage_attribute_increase_per_stack": 0.1,
+  "rage_attack_speed_increase_per_stack": 0.025,
+  "rage_max_amplifier_stack": 10,
+  "soul_devourer_heal_on_kill_target_max_health_amount": 0.1,
+  "bloody_strike_absorption_limit_max_health": 0.5,
+  "bloody_strike_rage_absorption_boost_multiplier": 0.8,
+  "bloody_strike_damage_to_absorption": 0.5,
+  "bloody_strike_self_damage": 0.5,
+  "blood_reckoning_absoprtion_to_heal": 0.5,
+  "blood_reckoning_base_heal": 4.0
+}

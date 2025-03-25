@@ -1,0 +1,489 @@
+{
+  "weapons": {},
+  "armor_sets": {
+    "deadeye": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_tundra_hunter": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.08,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "tundra_hunter": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.06,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.04,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.025,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "war_archer": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_war_archer": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 5,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.12,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADDITION"
+          },
+          {
+            "id": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_deadeye": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 3,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "id": "ranged_weapon:haste",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "ranged_weapon:damage",
+            "value": 0.07,
+            "operation": "MULTIPLY_BASE"
+          },
+          {
+            "id": "minecraft:generic.movement_speed",
+            "value": 0.05,
+            "operation": "MULTIPLY_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "aerondight_attack_increase_per_stack": 0.05,
+  "aerondight_spell_crit_chance_increase_per_stack": 0.025,
+  "aerondight_spell_crit_damage_increase_per_stack": 0.05,
+  "yrden_magical_trap_speed_reduction": -0.1,
+  "axii_damage_increase": 0.1,
+  "quen_reflect_damage": 0.5,
+  "adrenaline_attack_increase_per_stack": 0.025,
+  "adrenaline_sign_intensity_increase_per_stack": 0.025,
+  "adrenaline_max_seconds_duration": 180,
+  "adrenaline_max_amplifier": 10,
+  "adrenaline_attribute_increase_per_stack": 0.01,
+  "sign_school_intensity_increase_per_stack": 0.1,
+  "axii_puppet_attack_damage_increase_per_stack": 0.1,
+  "battle_trance_speed_increase": 0.3,
+  "adrenaline_burst_increase": 0.1
+}

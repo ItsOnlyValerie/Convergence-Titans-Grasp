@@ -1,0 +1,16 @@
+{
+  "soaked_lightning_damage_vulnerability": 0.15,
+  "soaked_lightning_critical_chance_vulnerability": 0.1,
+  "soaked_frost_damage_vulnerability": 0.15,
+  "soaked_frost_crit_damage_vulnerability": 0.3,
+  "stone_flesh_armor_increase": 1.0,
+  "stone_flesh_armor_toughness_increase": 0.5,
+  "stone_flesh_full_hp_damage_reduction": 0.5,
+  "trembling_movement_speed_decrease": -0.1,
+  "trembling_stun_apply_duration": 6,
+  "updraft_attack_speed_reduction": -0.25,
+  "updraft_air_spell_crit_chance_vulnerability": 0.1,
+  "updraft_air_spell_crit_damage_vulnerability": 0.35,
+  "updraft_air_damage_vulnerability": 0.1,
+  "tornado_fire_spell_vulnerability": 0.15
+}
