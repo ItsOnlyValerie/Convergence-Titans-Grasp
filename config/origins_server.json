@@ -1,16 +1,6 @@
 {
   "performVersionCheck": true,
   "origins": {
-    "touhouorigins:satori": {
-      "enabled": true,
-      "touhouorigins:mind_reading": true,
-      "touhouorigins:recollection": true,
-      "touhouorigins:reclusive_physique": true,
-      "touhouorigins:ostracized": true,
-      "touhouorigins:animal_friends": true,
-      "touhouorigins:rejection_of_nature": true,
-      "touhouorigins:key_check_satori": true
-    },
     "origins:blazeborn": {
       "enabled": true,
       "origins:fire_immunity": true,
@@ -22,30 +12,6 @@
       "origins:damage_from_snowballs": true,
       "origins:damage_from_potions": true
     },
-    "touhouorigins:celestial": {
-      "enabled": true,
-      "touhouorigins:divine_luck": true,
-      "touhouorigins:lavish_lifestyle": true,
-      "touhouorigins:more_hunger_points": true,
-      "touhouorigins:path_to_enlightenment": true,
-      "touhouorigins:path_to_immortality": true,
-      "touhouorigins:key_check_celestial": true
-    },
-    "touhouorigins:tsukumogami_karakasa": {
-      "enabled": true,
-      "touhouorigins:tsukumogami_karakasa": true
-    },
-    "touhouorigins:haniwa": {
-      "enabled": true,
-      "touhouorigins:warrior_of_an_old_age": true,
-      "touhouorigins:quick_patch_up_job": true,
-      "touhouorigins:terracotta_skin": true,
-      "touhouorigins:fragile_structure": true
-    },
-    "touhouorigins:tsukumogami_chochin": {
-      "enabled": true,
-      "touhouorigins:tsukumogami_chochin": true
-    },
     "origins:avian": {
       "enabled": true,
       "origins:slow_falling": true,
@@ -54,77 +20,6 @@
       "origins:tailwind": true,
       "origins:lay_eggs": true,
       "origins:vegetarian": true
-    },
-    "touhouorigins:vengeful_spirit": {
-      "enabled": true,
-      "touhouorigins:vengeful_harvest": true,
-      "touhouorigins:searing_rage": true,
-      "touhouorigins:apparition_appetite": true,
-      "touhouorigins:futile_concoctions": true,
-      "touhouorigins:vengeful_spirit_extra": true
-    },
-    "touhouorigins:kappa": {
-      "enabled": true,
-      "touhouorigins:optical_camouflage": true,
-      "touhouorigins:portable_crafting_interface": true,
-      "touhouorigins:aquabatics": true,
-      "touhouorigins:kappa_out_of_water": true,
-      "touhouorigins:soul_snatch": true
-    },
-    "extraorigins:inchling": {
-      "enabled": true,
-      "extraorigins:bite_sized": true,
-      "extraorigins:nimble": true,
-      "extraorigins:small_appetite": true,
-      "origins:climbing": true,
-      "extraorigins:jockey": true
-    },
-    "touhouorigins:celestial_enlightened": {
-      "enabled": true,
-      "touhouorigins:divine_luck": true,
-      "touhouorigins:lavish_lifestyle": true,
-      "touhouorigins:more_hunger_points": true,
-      "touhouorigins:enlightened": true,
-      "touhouorigins:no_mining_exhaustion": true
-    },
-    "origins-classes:explorer": {
-      "enabled": true,
-      "origins-classes:explorer_kit": true,
-      "origins-classes:no_sprint_exhaustion": true
-    },
-    "touhouorigins:hell_raven": {
-      "enabled": true,
-      "touhouorigins:blackened": true,
-      "touhouorigins:born_in_flame": true,
-      "touhouorigins:doom_design": true,
-      "touhouorigins:smoldering_decay": true,
-      "touhouorigins:my_apocalypse": true
-    },
-    "touhouorigins:crow_tengu": {
-      "enabled": true,
-      "touhouorigins:gust_of_wind": true,
-      "touhouorigins:youkai_of_the_sky": true,
-      "touhouorigins:tengu_speed": true,
-      "touhouorigins:flight_friendly_body": true,
-      "touhouorigins:reporting_above_clouds": true
-    },
-    "origins-classes:cook": {
-      "enabled": true,
-      "origins-classes:better_crafted_food": true,
-      "origins-classes:more_smoker_xp": true
-    },
-    "touhouorigins:tsukumogami_fukuro_ex": {
-      "enabled": true,
-      "touhouorigins:gap_bag": true
-    },
-    "touhouorigins:jiang_shi": {
-      "enabled": true,
-      "touhouorigins:one_of_us": true,
-      "touhouorigins:life_drain": true,
-      "touhouorigins:pestilence": true,
-      "touhouorigins:searing_light": true,
-      "touhouorigins:zombie_arms": true,
-      "touhouorigins:damage_helmet": true
     },
     "origins:feline": {
       "enabled": true,
@@ -136,37 +31,8 @@
       "origins:scare_creepers": true,
       "origins:cat_vision": true
     },
-    "origins-classes:merchant": {
-      "enabled": true,
-      "origins-classes:trade_availability": true,
-      "origins-classes:rare_wandering_loot": true
-    },
-    "touhouorigins:satori_closed_eye": {
-      "enabled": true,
-      "touhouorigins:unconscious_manipulation": true,
-      "touhouorigins:paranoia": true,
-      "touhouorigins:presence_of_no_merit": true,
-      "touhouorigins:reclusive_physique": true,
-      "touhouorigins:distracted_state_of_mind": true
-    },
-    "origins-classes:archer": {
-      "enabled": true,
-      "origins-classes:no_projectile_divergence": true,
-      "origins-classes:less_bow_slowdown": true
-    },
-    "touhouorigins:tsukumogami": {
-      "enabled": true,
-      "touhouorigins:choose_your_tool": true,
-      "touhouorigins:artisan_of_animacy": true,
-      "touhouorigins:little_smithy": true
-    },
     "origins:human": {
       "enabled": true
-    },
-    "origins-classes:cleric": {
-      "enabled": true,
-      "origins-classes:longer_potions": true,
-      "origins-classes:better_enchanting": true
     },
     "origins:arachnid": {
       "enabled": true,
@@ -176,13 +42,6 @@
       "origins:fragile": true,
       "origins:arthropod": true
     },
-    "extraorigins:truffle": {
-      "enabled": true,
-      "extraorigins:magic_spores": true,
-      "extraorigins:infestation": true,
-      "extraorigins:rooted": true,
-      "extraorigins:decomposition": true
-    },
     "origins:elytrian": {
       "enabled": true,
       "origins:elytra": true,
@@ -191,57 +50,6 @@
       "origins:light_armor": true,
       "origins:claustrophobia": true,
       "origins:more_kinetic_damage": true
-    },
-    "touhouorigins:kurayami_ex": {
-      "enabled": true,
-      "touhouorigins:nullified_seal": true,
-      "touhouorigins:darkness_sword": true,
-      "touhouorigins:power_of_darkness": true,
-      "touhouorigins:saint_in_darkness": true
-    },
-    "touhouorigins:oni": {
-      "enabled": true,
-      "touhouorigins:brawn_of_the_oni": true,
-      "touhouorigins:drunken_stupor": true,
-      "touhouorigins:heavy_drinker": true,
-      "touhouorigins:brute_force": true
-    },
-    "origins-classes:farmer": {
-      "enabled": true,
-      "origins-classes:more_crop_drops": true,
-      "origins-classes:better_bone_meal": true
-    },
-    "touhouorigins:wolf_tengu": {
-      "enabled": true,
-      "touhouorigins:warrior_spirit": true,
-      "touhouorigins:tengu_speed": true,
-      "touhouorigins:mountainous_blades": true,
-      "touhouorigins:clumsy_archer": true,
-      "touhouorigins:big_appetite": true
-    },
-    "extraorigins:floran": {
-      "enabled": true,
-      "extraorigins:green_thumb": true,
-      "extraorigins:photosynthesis": true,
-      "extraorigins:absorbing": true,
-      "extraorigins:flammable": true,
-      "extraorigins:nectarivore": true
-    },
-    "origins-classes:blacksmith": {
-      "enabled": true,
-      "origins-classes:quality_equipment": true,
-      "origins-classes:efficient_repairs": true
-    },
-    "touhouorigins:ghost": {
-      "enabled": true,
-      "touhouorigins:hardened_soul": true,
-      "touhouorigins:fading_body": true,
-      "touhouorigins:apparition_appetite": true,
-      "touhouorigins:futile_concoctions": true,
-      "touhouorigins:withering_soul": true
-    },
-    "origins-classes:nitwit": {
-      "enabled": true
     },
     "origins:enderian": {
       "enabled": true,
@@ -263,29 +71,6 @@
       "origins:fragile": true,
       "origins:phantomize_overlay": true
     },
-    "origins-classes:beastmaster": {
-      "enabled": true,
-      "origins-classes:tamed_animal_boost": true,
-      "origins-classes:tamed_potion_diffusal": true
-    },
-    "touhouorigins:celestial_immortal": {
-      "enabled": true,
-      "touhouorigins:divine_luck": true,
-      "touhouorigins:lavish_lifestyle": true,
-      "touhouorigins:more_hunger_points": true,
-      "touhouorigins:immortal": true
-    },
-    "extraorigins:piglin": {
-      "enabled": true,
-      "extraorigins:all_that_glitters": true,
-      "extraorigins:crossbow_master": true,
-      "extraorigins:piglin_neutrality": true,
-      "origins:nether_spawn": true,
-      "extraorigins:homesick": true,
-      "extraorigins:golden_gluttony": true,
-      "extraorigins:flabby": true,
-      "extraorigins:soul_spooked": true
-    },
     "origins:shulk": {
       "enabled": true,
       "origins:shulker_inventory": true,
@@ -294,13 +79,6 @@
       "origins:strong_arms_break_speed": true,
       "origins:no_shield": true,
       "origins:more_exhaustion": true
-    },
-    "touhouorigins:yuki_onna": {
-      "enabled": true,
-      "touhouorigins:chilling_touch": true,
-      "touhouorigins:deadly_snow": true,
-      "touhouorigins:snow_woman": true,
-      "touhouorigins:ice_cold": true
     },
     "origins:merling": {
       "enabled": true,
@@ -311,203 +89,6 @@
       "origins:aquatic": true,
       "origins:conduit_power_on_land": true,
       "origins:air_from_potions": true
-    },
-    "touhouorigins:moon_rabbit": {
-      "enabled": true,
-      "touhouorigins:military_of_the_moon": true,
-      "touhouorigins:strong_legs": true,
-      "touhouorigins:timid_constitution": true
-    },
-    "origins-classes:warrior": {
-      "enabled": true,
-      "origins-classes:more_attack_damage": true,
-      "origins-classes:less_shield_slowdown": true
-    },
-    "origins-classes:rancher": {
-      "enabled": true,
-      "origins-classes:twin_breeding": true,
-      "origins-classes:more_animal_loot": true
-    },
-    "touhouorigins:fairy": {
-      "enabled": true,
-      "touhouorigins:regeneration": true,
-      "touhouorigins:fluttering_wings": true,
-      "touhouorigins:aspect_of_nature": true,
-      "touhouorigins:fodder": true
-    },
-    "origins-classes:miner": {
-      "enabled": true,
-      "origins-classes:more_stone_break_speed": true,
-      "origins-classes:no_mining_exhaustion": true
-    },
-    "touhouorigins:kurayami": {
-      "enabled": true,
-      "touhouorigins:midnight_bird": true,
-      "touhouorigins:is_that_so": true,
-      "touhouorigins:chomp": true,
-      "touhouorigins:light_absorption": true,
-      "touhouorigins:crude_appetite": true,
-      "touhouorigins:mysterious_seal": true
-    },
-    "touhouorigins:tsukumogami_fukuro": {
-      "enabled": true,
-      "touhouorigins:tsukumogami_fukuro": true,
-      "touhouorigins:tsukumogami_fukuro_ex": true,
-      "touhouorigins:key_check_fukuro": true
-    },
-    "origins-classes:rogue": {
-      "enabled": true,
-      "origins-classes:sneaky": true,
-      "origins-classes:stealth": true,
-      "origins-classes:stealth_descriptor": true
-    },
-    "touhouorigins:vampire": {
-      "enabled": true,
-      "touhouorigins:superiority": true,
-      "touhouorigins:moonlight_aura": true,
-      "touhouorigins:vampirism": true,
-      "touhouorigins:scorching_sun": true,
-      "touhouorigins:banes_of_the_immortal": true
-    },
-    "touhouorigins:earth_rabbit": {
-      "enabled": true,
-      "touhouorigins:great_fortune_crest": true,
-      "touhouorigins:natural_luck": true,
-      "touhouorigins:strong_legs": true,
-      "touhouorigins:feeble_nature": true
-    },
-    "origins-classes:lumberjack": {
-      "enabled": true,
-      "origins-classes:tree_felling": true,
-      "origins-classes:more_planks_from_logs": true
-    },
-    "touhouorigins:tsukumogami_menreiki": {
-      "enabled": true,
-      "touhouorigins:tsukumogami_menreiki": true
-    },
-    "origins_deities:deity/pria": {
-      "enabled": true,
-      "origins_deities:primary/blessing_of_sacrifice": true,
-      "origins_deities:primary/life_healing_pots": true
-    },
-    "origins_deities:aspect/wanderer": {
-      "enabled": true,
-      "origins_deities:secondary/wanderer": true
-    },
-    "origins_deities:aspect/condition": {
-      "enabled": true,
-      "origins_deities:secondary/condition": true
-    },
-    "origins_deities:deity/aranuo": {
-      "enabled": true
-    },
-    "origins_deities:deity/arum": {
-      "enabled": true,
-      "origins_deities:primary/glory": true,
-      "origins_deities:primary/glory_gain": true
-    },
-    "origins_deities:aspect/sun": {
-      "enabled": true,
-      "origins_deities:secondary/sun": true
-    },
-    "origins_deities:deity/lokin": {
-      "enabled": true,
-      "origins_deities:primary/lokin": true,
-      "origins_deities:story/damage": true,
-      "origins_deities:story/healing": true
-    },
-    "origins_deities:deity/arthera": {
-      "enabled": true,
-      "origins_deities:primary/nature_growth": true,
-      "origins_deities:primary/nature_focus": true,
-      "origins_deities:primary/nature_focus_regen": true
-    },
-    "origins_deities:deity/moern": {
-      "enabled": true,
-      "origins_deities:primary/graves": true,
-      "origins_deities:primary/detect_undead": true
-    },
-    "origins_deities:aspect/soulward": {
-      "enabled": true,
-      "origins_deities:secondary/soulward": true
-    },
-    "origins_deities:aspect/rage": {
-      "enabled": true,
-      "origins_deities:secondary/rage": true
-    },
-    "origins_deities:aspect/grace": {
-      "enabled": true,
-      "origins_deities:secondary/grace": true
-    },
-    "origins_deities:aspect/homebound": {
-      "enabled": true,
-      "origins_deities:secondary/homebound": true
-    },
-    "origins_deities:deity/tyra": {
-      "enabled": true,
-      "origins_deities:primary/eye_of_the_storm": true
-    },
-    "origins_deities:deity/hemos": {
-      "enabled": true,
-      "origins_deities:primary/mote_of_light": true,
-      "origins_deities:primary/common_light": true
-    },
-    "origins_deities:aspect/moon": {
-      "enabled": true,
-      "origins_deities:secondary/moon": true
-    },
-    "origins_deities:aspect/the_hunt": {
-      "enabled": true,
-      "origins_deities:secondary/the_hunt": true
-    },
-    "origins_deities:deity/alai": {
-      "enabled": true,
-      "origins_deities:ingenuity": true,
-      "origins_deities:ingenuity_gain": true,
-      "origins_deities:ingenuity_crafting": true
-    },
-    "origins_deities:aspect/knowledge": {
-      "enabled": true
-    },
-    "origins_deities:aspect/companion": {
-      "enabled": true,
-      "origins_deities:secondary/companion": true
-    },
-    "origins_deities:aspect/shadows": {
-      "enabled": true,
-      "origins_deities:secondary/shadows": true
-    },
-    "origins_deities:aspect/charged": {
-      "enabled": true,
-      "origins_deities:secondary/charged": true
-    },
-    "origins_deities:aspect/refraction": {
-      "enabled": true,
-      "origins_deities:secondary/refraction": true
-    },
-    "origins_deities:deity/caelon": {
-      "enabled": true,
-      "origins_deities:primary/agent_of_peace": true,
-      "origins_deities:primary/diplomatic_eyes": true
-    },
-    "origins_vampire:vampire": {
-      "enabled": true,
-      "origins_vampire:bat_form": true,
-      "origins_vampire:diet": true,
-      "origins_vampire:health_regeneration": true,
-      "origins_vampire:undead": true,
-      "origins_vampire:weakness/wooden_tools": true,
-      "origins_vampire:blood/drink/ender_dragon": true
-    },
-    "origins_vampire:vampire_lord": {
-      "enabled": true,
-      "origins_vampire:flight/wing_flap": true,
-      "origins_vampire:bat_form": true,
-      "origins_vampire:diet": true,
-      "origins_vampire:health_regeneration": true,
-      "origins_vampire:hunters_instinct": true,
-      "origins_vampire:undead": true,
-      "origins_vampire:weakness/wooden_tools": true
     }
   }
 }
