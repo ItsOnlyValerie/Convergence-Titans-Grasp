@@ -1,5 +1,0 @@
-{
-  "fileSizeLimit": "1MB",
-  "fileConnectionTimeout": 30000,
-  "resetTimerTicks": 100
-}
